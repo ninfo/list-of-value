@@ -1,0 +1,5 @@
+History.txt
+Manifest.txt
+README.txt
+Rakefile
+lib/ninfo-list_of_value.rb
